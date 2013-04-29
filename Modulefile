@@ -7,4 +7,4 @@ summary 'A module to hookup torian/puppet-ldap to PE'
 description 'A module to hookup torian/puppet-ldap to PE'
 project_page 'UNKNOWN'
 
-dependency 'torian/puppet-ldap', '0.1.x'
+dependency 'torian/ldap', '0.1.x'
